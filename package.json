@@ -14,5 +14,9 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
+  },
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "express": "~3.4.8"
   }
 }
